@@ -13,7 +13,7 @@ from google.genai import types
 import PIL.Image
 
 # Initialize Gemini client
-client = genai.Client(api_key="AIzaSyBOVBbzrKdx7dK8n5p-84TRrLD5-mmmvzY")
+client = genai.Client(api_key="")
 
 detected_data = []
 
